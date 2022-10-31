@@ -47,6 +47,18 @@ TagManager:
   - name: plataforma
     uniqueID: 1825022257
     locked: 0
+  - name: agua blanca
+    uniqueID: 4217445875
+    locked: 0
+  - name: enemy 1
+    uniqueID: 3835293347
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 146304011
+    locked: 0
   - name: JUGADOR
-    uniqueID: 3470557077
+    uniqueID: 2983766989
+    locked: 0
+  - name: enemy 2
+    uniqueID: 2171395191
     locked: 0
